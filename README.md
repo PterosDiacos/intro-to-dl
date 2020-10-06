@@ -1,5 +1,5 @@
 # Introduction to Deep Learning course projects
-This repo contains my *worked projects* for the __Introduction to Deep Learning__ course by
+This repo contains my **worked projects** for the _Introduction to Deep Learning_ course by
 Higher School of Economics:
 https://www.coursera.org/learn/intro-to-deep-learning
 
